@@ -4,3 +4,5 @@ motor
 pydantic
 pymongo
 python-dotenv
+bcrypt
+pyjwt
