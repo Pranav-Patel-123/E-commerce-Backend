@@ -1,0 +1,4 @@
+steps:
+
+1. venv\Scripts\activate
+2. uvicorn main:app --reload --log-level debug
